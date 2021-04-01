@@ -4,6 +4,7 @@ import products from '../products.json';
 
 
 export default function Home() {
+  console.log('NEXT_PUBLIC_STRIPE_API_KEY', process.env.NEXT_PUBLIC_STRIPE_API_KEY)
   return (
     <div className={styles.container}>
       <Head>
@@ -33,9 +34,7 @@ export default function Home() {
                   <p>{ description }</p>
                 </a>
                 <p>
-                  <button className={styles.button} onClick={() => {
-                    initiateCheckOut();
-                  }}> Buy Now </button>
+                  <button className={styles.button}> Buy Now </button>
                 </p>
               </li>
             )
