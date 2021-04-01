@@ -1,0 +1,30 @@
+[
+    {
+        "id": "price_1IbU3CB7yB3SqfFQaNHX1H56",
+        "tittle": "Code-a-Pillar", 
+        "description": "Este juguete le permitira a los niños realizar codificación a temprana edad y solucion de problemas para niños en edad preescolar de 3 a 6 años",
+        "image": "/images/logo.jpg",
+        "price": 50.00
+    },
+    {
+        "id": "price_1IbU50B7yB3SqfFQhFGaKJxM",
+        "tittle": "Rompecabezas de formas", 
+        "description": "El juego de rompecabezas ayuda a sus hijos a desarrollar habilidades motoras finas, táctiles y de combinación mientras juegan 16 formas geométricas diferentes",
+        "image": "/images/logo.jpg",
+        "price": 35.00
+    },
+    {
+        "id": "price_1IbU5hB7yB3SqfFQEMbB0Ziq",
+        "tittle": "Tablet Bilingue", 
+        "description": "Esta es una plataforma de aprendizaje maravillosa para los niños que aprender un segundo idioma y apoyar su vocabulario en español",
+        "image": "/images/logo.jpg",
+        "price": 85.00
+    },
+    {
+        "id": "price_1IbU68B7yB3SqfFQsjEKg3AI",
+        "tittle": "Ciencia en Casa", 
+        "description": "El kit de ciencias para niños tiene 21 actividades emocionantes e interesantes que incluyen; cree su propia lámpara de lava, cristales creativos, volcanes y mucho más",
+        "image": "/images/logo.jpg",
+        "price": 50.00
+    }
+]
